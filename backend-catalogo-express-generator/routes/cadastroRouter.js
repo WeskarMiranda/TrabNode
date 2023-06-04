@@ -4,7 +4,7 @@ const cadastroController = require('../controllers/cadastroController');
 
 router.get('/', cadastroController.listar)
 router.get('/:id', cadastroController.listarPorId)
-router.get('/', cadastroController.listarUsuarios)
+router.get('/:id/:nome/:sobrenome/:cidade/:estado/:status', cadastroController.listarUsuarios)
 router.post('/', cadastroController.salvar)
 router.put('/:id', cadastroController.atualizar)
 router.delete('/:id', cadastroController.excluir)
