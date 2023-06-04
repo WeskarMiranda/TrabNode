@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nome": "Mamoru",
+        "sobrenome": "Oshi",
+        "dataNascimento": "08/08/1951",
+        "telefone": 94967403321,
+        "endereco": "Cabo Canaveral 345",
+        "cidade": "Cidade do Futuro",
+        "estado": "Cyber",
+        "status": true
+    },
+    {
+        "id": 2,
+        "nome": "Osamu",
+        "sobrenome": "Dezaki",
+        "dataNascimento": "18/11/1943",
+        "telefone": 76926783401,
+        "endereco": "Cidade de Deus",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "status": true
+    },
+    {
+        "id": 3,
+        "nome": "Naoko",
+        "sobrenome": "Yamada",
+        "dataNascimento": "28/11/1984",
+        "telefone": 419321423680,
+        "endereco": "Ponte dos Peixes",
+        "cidade": "Cidade das Flores",
+        "estado": "Jardim",
+        "status": true
+    },
+    {
+        "id": 4,
+        "nome": "Isao",
+        "sobrenome": "Takahata",
+        "dataNascimento": "29/08/1935",
+        "telefone": 12986704392,
+        "endereco": "Cama de Ninar 651",
+        "cidade": "Cidade Bambu",
+        "estado": "Lua",
+        "status": true
+    },
+    {
+        "id": 5,
+        "nome": "Kunihiko",
+        "sobrenome": "Ikuhara",
+        "dataNascimento": "21/12/1964",
+        "telefone": 92925683492,
+        "endereco": "Campo de Rosas 789",
+        "cidade": "Nova Grecia",
+        "estado": "Ovo",
+        "status": true
+    }
+]
